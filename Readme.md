@@ -1,7 +1,7 @@
-Facebook/Heroku sample app -- Node.js
+Pacebreaker Web application
 =====================================
 
-This is a sample app showing use of the Facebook Graph API, written in Node.js, designed for deployment to [Heroku](http://www.heroku.com/).
+This is an application built at facebook, heroku hackathon on 18-Aug-2012.
 
 Run locally
 -----------
